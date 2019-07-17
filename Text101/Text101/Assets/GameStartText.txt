@@ -1,0 +1,5 @@
+You entered the dance studio and see the reception desk.
+What do you want to do next?
+
+[1] Ask about a dance class you registered for and want to pay.
+[2] Exit the buiding.
